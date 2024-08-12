@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ScriptedIsles, a gamer nerd/roblos and bearly a lua coder.
-- 🌱 I’m currently learning more lua to make yes.
+-  I’m @ScriptedIsles, a gamer nerd/roblos and bearly a lua coder.
+-  I’m currently learning more lua to make yes.
 
 
 
