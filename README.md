@@ -1,4 +1,4 @@
--  I’m @ScriptedIsles, a gamer nerd/roblos and bearly a lua coder.
+-  I’m @ScriptedIsles, a gamer nerd/roblos and bearly a coder.
 -  I’m currently learning more lua to make yes.
 
 
