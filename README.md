@@ -1,5 +1,5 @@
 -  I’m @ScriptedIsles, a gamer nerd/roblos and bearly a coder.
--  I’m currently learning more Lua, HTML & CSS, JS, and Swift to make yes.
+-  I’m currently learning more LUA/LUAU, HTML & CSS, JS, and Swift to make yes.
 
 
 
